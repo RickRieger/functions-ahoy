@@ -8,6 +8,7 @@ let greeting = 'hello';
 let firstName = 'Rick';
 let callStatus = 'ringing';
 
+
 function double(){
   x = 2 * x;
 }
